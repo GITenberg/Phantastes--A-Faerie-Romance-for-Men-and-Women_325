@@ -1,0 +1,28 @@
+_repo: Phantastes--A-Faerie-Romance-for-Men-and-Women_325
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: 'Phantastes: A Faerie Romance for Men and Women is a fantasy novel written
+  by George MacDonald, first published in London in 1858. It was later reprinted in
+  paperback by Ballantine Books as the fourteenth volume of the Ballantine Adult Fantasy
+  series in April 1970.-- Excerpted from Wikipedia, the free encyclopedia.'
+gutenberg_issued: '2008-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Phantastes: A Faerie Romance for Men and Women'
+url: http://www.gutenberg.org/ebooks/325
